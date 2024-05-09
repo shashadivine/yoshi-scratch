@@ -5,5 +5,6 @@ This game was developed as part of my learning journey through the "Harvard CS50
 
 You may run the game via this URL: https://scratch.mit.edu/projects/670243690
 and view the HTML file 'yoshi-fruit-sploot.html' (converted via packager.turbowarp.org)
+You may also run the game by downloading the HTML file and opening it on a web browser.
 
 Please click the spacebar and the green flag to start the gameplay. The instructions will show after Yoshi's starting screen. To reset the game, it is best to refresh the page to avoid any reload errors. Thank you!
