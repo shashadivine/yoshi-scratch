@@ -1,5 +1,5 @@
 # yoshi-scratch
-A 2D game created from "Scratch"
+A 2D game created with "Scratch"
 
 This game was developed as part of my learning journey through the "Harvard CS50x" online course. Utilizing Scratch as the beginner development platform, this project served as my introduction to the fundamentals of programming, including algorithms, control structures, user interface design, event-driven programming, problem-solving, debugging, creative coding, and other essential concepts. The inspiration behind this game is my love for Yoshi, a character in the Nintendo franchise.
 
